@@ -147,15 +147,20 @@ button:active { background-color: SteelBlue; color: White;
 
 
      footer{
-  align-self: flex-end;
+  
   background-color: #9B7777;
-  line-height: 5;
+  line-height: 1;
   text-align: center;
-  margin-top:10vw;
-  height: 20vw;
+  margin-top:5vw;
+  height: 5vw;
   width: 100%
  }
 
   footer h3 {
-  color:#E3E1D0;
+  color:#F2C7D6;
  }
+
+ .page-footer {
+  margin: 10px auto 0 auto;
+  padding: 20px;
+}
