@@ -147,7 +147,7 @@ button:active { background-color: SteelBlue; color: White;
 
 
      footer{
-  
+
   background-color: #9B7777;
   line-height: 1;
   text-align: center;
@@ -163,4 +163,13 @@ button:active { background-color: SteelBlue; color: White;
  .page-footer {
   margin: 10px auto 0 auto;
   padding: 20px;
+}
+
+.LogIn {
+  padding: 60px 0;
+}
+
+.Login form {
+  margin : 0 auto;
+  max-width: 320px;
 }
