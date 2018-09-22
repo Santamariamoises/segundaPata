@@ -21,6 +21,7 @@ class Navigation extends Component {
           <NavLink to="/MainPage">Home</NavLink>
           <NavLink to="/Upload">Upload</NavLink>
           <NavLink to="/" onClick={this.logout}>Log Out</NavLink>
+          <NavLink to="/Checkout" ><img src="checkout.jpg" className="pic" /> </NavLink>
           </ul>
     </nav>
    </div>

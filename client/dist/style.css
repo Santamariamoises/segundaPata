@@ -173,3 +173,107 @@ button:active { background-color: SteelBlue; color: White;
   margin : 0 auto;
   max-width: 320px;
 }
+
+
+
+
+
+
+white: #fff ;
+.margin-top50 {
+  margin-top: 10px;
+  margin-left: 70px !important;
+
+}
+.credit {
+  margin-top: 50px;
+  margin-left: 400px;
+  height: 350px;
+  width: 500px;
+  border: 0;
+  border-radius: 10px;
+  background: url(http://www.psdgraphics.com/file/world-map-background.jpg) no-repeat center center;
+  background-size: cover;
+  color: red;
+
+}
+
+  .credit__bank {
+    font-size: 40px;
+    font-weight: bold;
+    color: white !important;
+  }
+  .credit__mc {
+    width: 50px;
+
+    position: absolute;
+bottom: 270px;
+right: 730px;
+
+  }
+  .credit__card-number {
+    height: 61px;
+    padding-top: 10px;
+    font-weight: 600;
+    font-size: 32px;
+    letter-spacing: 2px;
+  }
+  .credit__ccv {
+    height: 24px;
+    float: right;
+    margin-top: -50px;
+    text-transform: uppercase;
+  }
+  .credit__name{
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 16px;
+    height: 25px;
+  }
+  .credit__date{
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 16px;
+    height: 25px;
+  }
+  .label {
+    color: red;
+  }
+  .Expiration{
+font-weight: 600;
+    position: absolute;
+bottom: 137px;
+right: 295px;
+font-size: 16px;
+  }
+  .cardholder{
+    font-weight: 600;
+    font-size: 16px;
+  }
+.back{
+  min-height:100%;
+  padding-top: 50px;
+ padding-right: 60px;
+ padding-bottom: 200px;
+ padding-left: 80px;
+}
+.btn{
+  background-color: #17cdd1; color: #35424B !important;
+}
+.cascading-modal{
+  background-color: white;
+   height: 640px;
+
+
+}
+.pic{
+  height: 75px;
+  width: 100px;
+    position: absolute;
+    right: 80px;
+    top: 10px;
+      border-radius: 10px;
+}
+.card{
+  background-color: lightblue;
+}

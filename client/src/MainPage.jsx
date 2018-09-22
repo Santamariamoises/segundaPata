@@ -9,6 +9,7 @@ import ItemPage from "./components/item-page/ItemPage.jsx";
 import ItemsHome from "./components/ItemsHome.js";
 import UploadProduct from "./components/UploadProduct.jsx";
 import Footer from "./components/item-page/footer.js";
+import Checkout from "./components/Checkout.jsx";
 
 class MainPage extends Component {
   constructor(props) {
