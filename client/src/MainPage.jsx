@@ -2,7 +2,7 @@ import React, {Component} from "react";
 import ReactDOM from "react-dom";
 import $ from "jquery";
 import axios from "axios";
-import fire from "./components/Fire.js"
+import fire from "./components/Fire.js";
 
 import SearchBar from "./components/search/SearchBar.js";
 import ItemPage from "./components/item-page/ItemPage.jsx";

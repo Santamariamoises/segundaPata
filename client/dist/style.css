@@ -205,10 +205,9 @@ white: #fff ;
   }
   .credit__mc {
     width: 50px;
-
-    position: absolute;
-bottom: 270px;
-right: 730px;
+position: credit__bank;
+bottom: 150px;
+right: 500px;
 
   }
   .credit__card-number {
@@ -275,5 +274,5 @@ font-size: 16px;
       border-radius: 10px;
 }
 .card{
-  background-color: lightblue;
+  background-color: LightSteelBlue;
 }
