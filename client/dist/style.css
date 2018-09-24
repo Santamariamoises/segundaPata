@@ -205,9 +205,9 @@ white: #fff ;
   }
   .credit__mc {
     width: 50px;
-position: credit__bank;
-bottom: 150px;
-right: 500px;
+position: absolute;
+bottom: 560px;
+right: 560px;
 
   }
   .credit__card-number {
@@ -241,8 +241,8 @@ right: 500px;
   .Expiration{
 font-weight: 600;
     position: absolute;
-bottom: 137px;
-right: 295px;
+bottom: 450px;
+right: 175px;
 font-size: 16px;
   }
   .cardholder{
